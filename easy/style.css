@@ -1,0 +1,51 @@
+#rgbpannel {
+  margin: 20px 0px;
+}
+
+.title {
+  text-transform: uppercase;
+}
+
+.item div {
+  padding: 5px;
+}
+.subtile h6 {
+  text-align: center;
+  padding-top: 5px;
+}
+.color_display_r {
+  height: 35px;
+  background-color: red;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 5px;
+}
+.color_display_g {
+  height: 35px;
+  background-color: green;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 5px;
+}
+
+.color_display_b {
+  height: 35px;
+  background-color: blue;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 5px;
+}
+
+#result_hex {
+  border: 1px #ced4da solid;
+  border-radius: 5px;
+  height: 35px;
+  margin: 10px 0px;
+}
+
+#result_color {
+  width: 100px;
+  height: 100px;
+  border: 1px #ced4da solid;
+  margin-top: 30px;
+}

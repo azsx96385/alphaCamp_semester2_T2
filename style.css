@@ -1,0 +1,45 @@
+#pannel {
+  text-align: center;
+  background-color: black;
+}
+#rgbPannel {
+  margin: 20px 0px;
+  padding: 30px 0px;
+}
+.item div {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 10px;
+}
+.item_title {
+  width: 30px;
+  border-radius: 10px;
+}
+.item_title h5 {
+  text-align: center;
+  margin-bottom: 5px;
+}
+#item_number_r,
+#item_number_g,
+#item_number_b {
+  margin: 3px;
+  width: 60px;
+  text-align: center;
+  border-radius: 10px;
+}
+.red {
+  background-color: red;
+}
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: skyblue;
+}
+#display {
+  background-color: #e0e0e0;
+}
+#result_hex {
+  text-transform: uppercase;
+}
